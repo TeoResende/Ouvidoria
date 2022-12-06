@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #284b09;
+    background-image: url("/Ouvidoria/img/fundo3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 150vw;
+    max-width: 100vw;
+    max-height: 100vh;
+}
+header{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left: 1vw;
+    max-width: 100vw;
+    margin-left: 10vw;
+    width: 79vw;
+    height: 10vh;
+    background-color: #284f09;
+    opacity: 0.95;
+}
+main{
+    max-width: 100vw;
+    max-height: 75vh;
+    width: 80vw;
+    height: 75vh;
+    margin-left: 10vw;
+    padding-top: 1vh;
+    background-color: #284b09;
+    opacity: 0.95;
+}
+footer{
+    padding-top: 2vh;
+    max-width: 100vw;
+    margin-left: 10vw;
+    width: 80vw;
+    height: 10vh;
+    background-color: #284f09;
+    opacity: 0.95;
+}
+#div_top{
+    display: flex;
+    justify-content: space-between;
+    /*background-color: #1b094b;*/
+    font-size: 3vh;
+    height: 10vh;
+    width: 78vw;   
+}
+#div_top1{
+    display: flex;
+    justify-content: center;
+    padding-top: 1vh;
+    /*background-color: #094b1d;*/
+    width: 78vw;
+    text-align: center;
+    font-size: 2.5vw;
+}
+#sec_um{  
+    font-size: 2.5vw;
+    display: flex;
+    justify-content: space-around;
+}
+#nQuero{
+    font-size: 2vw;
+}
+#sQuero{
+    font-size: 2vw;
+}
+#div_identificação2{
+    padding: 5px;
+    max-width: 60vw;
+    box-shadow: 2px 3px 10px black;
+    background-color: #285b09;
+    padding-top: 7px;
+    font-size: 2.2vw;
+}
+#div_identificação3{
+    padding: 5px;
+    text-align: justify;
+    max-width: 50vw;
+    box-shadow: 2px 3px 10px black;
+    background-color: #285b09;
+    padding-top: 7px;
+    font-size: 1.9vw;
+}
